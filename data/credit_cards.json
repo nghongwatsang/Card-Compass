@@ -1,0 +1,85 @@
+[
+  {
+    "id": "chase_freedom_unlimited",
+    "name": "Chase Freedom Unlimited",
+    "issuer": "Chase",
+    "type": "cashback",
+    "rewards": {
+      "base_rate": 1.5,
+      "categories": {
+        "all_purchases": 1.5
+      }
+    },
+    "annual_fee": 0,
+    "sign_up_bonus": {
+      "amount": 200,
+      "requirement": "Spend $500 in first 3 months"
+    },
+    "updated_at": "2025-07-24T22:55:02.914096"
+  },
+  {
+    "id": "chase_sapphire_preferred",
+    "name": "Chase Sapphire Preferred",
+    "issuer": "Chase",
+    "type": "points",
+    "rewards": {
+      "base_rate": 1,
+      "categories": {
+        "travel": 2,
+        "dining": 2,
+        "all_purchases": 1
+      }
+    },
+    "annual_fee": 95,
+    "sign_up_bonus": {
+      "amount": 60000,
+      "requirement": "Spend $4,000 in first 3 months"
+    },
+    "updated_at": "2025-07-24T22:55:02.914116"
+  },
+  {
+    "id": "discover_it_cash_back",
+    "name": "Discover it Cash Back",
+    "issuer": "Discover",
+    "type": "cashback",
+    "rewards": {
+      "base_rate": 1,
+      "categories": {
+        "rotating_5x": 5,
+        "all_purchases": 1
+      },
+      "rotating_schedule": {
+        "Q1": "gas_stations_grocery_stores",
+        "Q2": "restaurants_paypal_gas_stations",
+        "Q3": "walmart_drugstores",
+        "Q4": "amazon_target"
+      }
+    },
+    "annual_fee": 0,
+    "sign_up_bonus": {
+      "amount": "Double cash back first year",
+      "requirement": "No minimum spend"
+    },
+    "updated_at": "2025-07-24T22:55:02.914119"
+  },
+  {
+    "id": "amex_gold",
+    "name": "American Express Gold Card",
+    "issuer": "American Express",
+    "type": "points",
+    "rewards": {
+      "base_rate": 1,
+      "categories": {
+        "dining": 4,
+        "groceries": 4,
+        "all_purchases": 1
+      }
+    },
+    "annual_fee": 250,
+    "sign_up_bonus": {
+      "amount": 60000,
+      "requirement": "Spend $4,000 in first 6 months"
+    },
+    "updated_at": "2025-07-24T22:55:02.914122"
+  }
+]

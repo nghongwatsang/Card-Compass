@@ -1,0 +1,28 @@
+[
+  {
+    "annual_fee": 0,
+    "id": "discover_it_cash_back",
+    "issuer": "Discover",
+    "name": "Discover it Cash Back",
+    "rewards": {
+      "base_rate": 1,
+      "categories": {
+        "all_purchases": 1,
+        "rotating_5x": 5
+      },
+      "rotating_schedule": {
+        "Q1": "gas_stations_grocery_stores",
+        "Q2": "restaurants_paypal_gas_stations",
+        "Q3": "walmart_drugstores",
+        "Q4": "amazon_target"
+      }
+    },
+    "sign_up_bonus": {
+      "amount": "Double cash back first year",
+      "requirement": "No minimum spend"
+    },
+    "type": "cashback",
+    "updated_at": "2025-07-24T22:55:02.914119",
+    "added_at": "2025-07-24T22:59:28.767091"
+  }
+]
