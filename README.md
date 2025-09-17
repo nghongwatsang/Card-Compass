@@ -2,7 +2,6 @@
 
 Card Compass is a smart financial assistant that helps users maximize credit card rewards based on their spending habits and the benefits of the cards they own. It understands credit card reward structures, including cashback percentages, point multipliers, and rotating bonus categories.
 
-![Card Compass Dashboard](https://via.placeholder.com/800x400/007bff/ffffff?text=Card+Compass+Dashboard)
 
 ## Features
 
